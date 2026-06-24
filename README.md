@@ -2,6 +2,8 @@
 
 A fun and interactive number guessing game built with HTML, CSS, and JavaScript.
 
+🔗 Live Demo: https://benson-guessgame.netlify.app/
+
 ## 📖 Description
 
 The Guess Game challenges players to guess a randomly generated number within a specified range. The game provides feedback after each guess, helping players find the correct answer.
