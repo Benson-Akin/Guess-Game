@@ -56,7 +56,6 @@ Guess-Game/
 ├── script.js
 └── README.md
 
-
 ## 🔮 Future Improvements
 
 - Mobile Responsiveness
