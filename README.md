@@ -60,9 +60,9 @@ Guess-Game/
 
 - Mobile Responsiveness
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Benson Akinola**
+Benson Akinola
 
 GitHub: https://github.com/Benson-Akin
 ```
